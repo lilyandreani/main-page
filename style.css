@@ -1,6 +1,6 @@
+
 body {
-background-color: pink;
-}
+background-color: pink;}
 h1 {
 color: pink;
   background-color: salmon;
@@ -11,5 +11,14 @@ p {
   text-align: center;
   font-size: 30px;
   color: salmon;
+}
+li a { 
+ color: salmon;
+display: inline;
+}
+div.navbar {
+ width: 70%;
+  left: 20%;
+  position: absolute;
 }
 
